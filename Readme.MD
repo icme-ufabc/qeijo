@@ -14,10 +14,7 @@ launch a total energy calculation and get from it important quantities, like the
 system, the relaxed atomic coordinates, magnetization, etc. In future releases, I plan to add interfaces 
 to other programs from the Quantum Espresso package, as well as work a bit more on user documentation.
 
-# Basic Usage Example
-# -------------------
-
-# Launching a calculation with pw.x of H2 molecule, reading the input from an existing input file
+# Basic Usage Example: Launching a calculation with pw.x of H2 molecule, reading the input from an existing input file
 
 from qeijo import pw
 
